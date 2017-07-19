@@ -1,3 +1,9 @@
 p  {
     color: blue;
+    width: 300px;
+    border: 2px solid black;
+}
+
+li {
+    color: red;
 }
