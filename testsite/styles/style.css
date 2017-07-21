@@ -11,3 +11,7 @@ li {
     border-radius: 5px;
     font-size: 15px;
 }
+
+.navigation {
+    background-image: url(images/rocks.jpg");
+}
