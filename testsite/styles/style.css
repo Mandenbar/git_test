@@ -3,15 +3,23 @@ body {
     background-color: rgb(147,151,158);
 }
 
-li {
+.navigation li {
     display: inline-block;
-    border: 1px solid rgb(0,0,0);
+    border: 2px solid rgb(0,0,0);
     padding: 10px;
-    margin: 1px;
+    margin: 10px auto;
     border-radius: 5px;
     font-size: 15px;
+    color: white;
+    background-color: rgb(34, 124, 111);
 }
 
+/*.navigation a {
+    width: 50px;
+    height: 30px;
+    display: inline-block;
+}*/
+
 .navigation {
-    background-image: url(images/rocks.jpg");
+    background-image: url(../images/rocks.jpg);
 }
